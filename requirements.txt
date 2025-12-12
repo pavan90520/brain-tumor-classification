@@ -1,0 +1,10 @@
+tensorflow>=2.10
+keras>=2.10
+keras-tuner
+numpy
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pandas
